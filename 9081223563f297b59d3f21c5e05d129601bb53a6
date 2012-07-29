@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAH53///y8\u003d",
+        "filename": "src/main/java/com/google/gerrit/audit/LoggerAudit.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2012-07-29T11:04:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAH33//+20\u003d",
+      "revId": "9081223563f297b59d3f21c5e05d129601bb53a6",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAH33//+3I\u003d",
         "filename": "src/main/java/com/google/gerrit/audit/LoginResultFormat.java",
         "patchSetId": 2
@@ -48,6 +66,24 @@
       "writtenOn": "2012-07-29T05:05:58Z",
       "side": 1,
       "message": "there tabs in this file. trim tailing whitespace?",
+      "revId": "9081223563f297b59d3f21c5e05d129601bb53a6",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAH53///y4\u003d",
+        "filename": "src/main/java/com/google/gerrit/audit/LoginResultFormat.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2012-07-29T11:04:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAH33//+3I\u003d",
       "revId": "9081223563f297b59d3f21c5e05d129601bb53a6",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
