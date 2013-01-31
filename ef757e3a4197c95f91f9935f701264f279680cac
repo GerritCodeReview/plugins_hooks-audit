@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "PDLaKyHA",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2013-01-31T01:30:17Z",
+      "side": 1,
+      "message": "This was already merged so maybe mention the commit instead?",
+      "revId": "ef757e3a4197c95f91f9935f701264f279680cac",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "PDPaQQKQ",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooksaudit/AuditEventFormat.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2013-01-31T01:30:17Z",
+      "side": 1,
+      "message": "Copyright headers on source files?",
+      "revId": "ef757e3a4197c95f91f9935f701264f279680cac",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "PDNaNRIw",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooksaudit/AuditEventFormat.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2013-01-31T01:30:17Z",
+      "side": 1,
+      "message": "Trailing whitespace?",
+      "revId": "ef757e3a4197c95f91f9935f701264f279680cac",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
