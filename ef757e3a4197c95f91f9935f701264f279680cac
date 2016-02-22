@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "62f3e9ea_4f2c8ddc",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooksaudit/AuditEventFormat.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2016-02-22T14:45:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "PDPaQQKQ",
+      "revId": "ef757e3a4197c95f91f9935f701264f279680cac",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "PDNaNRIw",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/hooksaudit/AuditEventFormat.java",
         "patchSetId": 4
@@ -47,6 +65,24 @@
       "writtenOn": "2013-01-31T01:30:17Z",
       "side": 1,
       "message": "Trailing whitespace?",
+      "revId": "ef757e3a4197c95f91f9935f701264f279680cac",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "62f3e9ea_6f2f51d3",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooksaudit/AuditEventFormat.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2016-02-22T14:45:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "PDNaNRIw",
       "revId": "ef757e3a4197c95f91f9935f701264f279680cac",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
